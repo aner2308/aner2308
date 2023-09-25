@@ -11,5 +11,8 @@ Jag heter Anton Eriksson och studerar till
 Jag försöker just nu att lära mig hur git och github fungerar. 
 Kom gärna med tips på förbättringar! 
 
+### Länk till min profil
+(https://github.com/aner2308) 
+
 
 
